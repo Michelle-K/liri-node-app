@@ -18,7 +18,7 @@ if (process.argv[2] === "my-tweets"){
   		else{
   			for(i = 0 ; i < tweets.length; i++) {
   				console.log(tweets[i].text);
-  				console.log(tweets[i].text);
+  				
   			}
   		}
 	});	
